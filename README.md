@@ -6,7 +6,7 @@ O jogo é composto por 2 fases, em cada o jogador começa com 3 vidas e uma vida
 Mais informações sobre os requisitos do jogo presentes em readme/T1-Arkanoid.pdf.
 
 MENU PRINCIPAL:
-![Menu](https://github.com/leonardoborck/Arkanoid_Game/blob/main/readme/arkanoid_menu.png?raw=true)<br>
+![Menu](https://github.com/leonardoborck/Arkanoid_Game/blob/main/readme/arkanoid_menu.png?raw=true)
 
 PRIMEIRA FASE:
 ![Primeira Fase](https://github.com/leonardoborck/Arkanoid_Game/blob/main/readme/arkanoid_mapa1.png?raw=true)
